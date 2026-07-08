@@ -1,0 +1,12 @@
+{
+  "root": "./src/",
+  "title": "Конвенции работы в Блэк Рокет",
+  "author": "Ян Гвардиан",
+  "pluginsConfig": {
+    "fontsettings": {
+      "theme": "night",
+      "family": "sans",
+      "size": 2
+    }
+  }
+}

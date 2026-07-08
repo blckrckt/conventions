@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "devDependencies": {
+    "honkit": "^6.2.2",
+    "honkit-plugin-theme-osiris": "^1.0.3"
+  }
+}
