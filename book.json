@@ -1,0 +1,12 @@
+{
+  "root": "./src/",
+  "title": "Конвенции работы в Блэк Рокет",
+  "author": "Блэк Рокет",
+  "pluginsConfig": {
+    "fontsettings": {
+      "theme": "night",
+      "family": "sans",
+      "size": 2
+    }
+  }
+}
