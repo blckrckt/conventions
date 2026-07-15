@@ -4,7 +4,6 @@
 
 Содержание:
 
-- [Введение](README.md)
 - [Правила коммуникации](communication-guidelines.md)
 - [Работа над задачами в GitHub Projects](github-issues.md)
 - [Рекомендации по работе](work-recommendations.md)
